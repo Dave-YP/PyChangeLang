@@ -22,7 +22,7 @@ def listen_and_recognize():
         while not stop_listening.is_set():
             print('Waiting for command')
             try:
-                audio = r.record(source, duration=3)
+                audio = r.record(source, duration=2)
                 text = r.recognize_google(audio, language='en-EN')
                 print('You said: ', text)
                 if text == 'exit':
