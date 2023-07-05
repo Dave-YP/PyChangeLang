@@ -10,7 +10,7 @@ pip install SpeechRecognition pyautogui PyQt5
 ## Usage
 To use PyChangeLang, simply run the main.py or GUI.py
 
-How it works
+## How it works
 PyChangeLang uses the SpeechRecognition library to recognize voice commands.
 The available commands for changing the language are:
 
