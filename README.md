@@ -1,8 +1,7 @@
-
-# Speak2Switch - это программа на языке Python, которая позволяет менять язык ввода на клавиатуре с помощью голосовых команд. Она использует библиотеку SpeechRecognition для распознавания голосовых команд и библиотеку PyAutoGUI для имитации комбинаций клавиш для изменения языка.
-
 # Speak2Switch
 Speak2Switch is a Python program that allows you to change the keyboard input language using voice commands. It uses the SpeechRecognition library to recognize voice commands and the PyAutoGUI library to simulate keyboard shortcuts to change the language.
+
+Speak2Switch - это программа на языке Python, которая позволяет менять язык ввода на клавиатуре с помощью голосовых команд. Она использует библиотеку SpeechRecognition для распознавания голосовых команд и библиотеку PyAutoGUI для имитации комбинаций клавиш для изменения языка.
 
 ## Installation
 Install the required libraries by running the following command in your terminal:
